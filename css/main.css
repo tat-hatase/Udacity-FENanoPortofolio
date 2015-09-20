@@ -1,0 +1,38 @@
+img {
+	max-width: 100%;
+}
+
+hr { 
+    height: 0.2em;
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 0px;
+}
+
+article {
+	font-size: 1.5em;
+}
+
+.work-title {
+	text-align: center;
+}
+
+.fw-img {
+	width: 80%;
+}
+
+.mid-img {
+	width: 100%;
+}
+
+.name {
+	text-align: right;
+}
+
+.job-title {
+	text-align: right;
+}
